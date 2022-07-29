@@ -1,3 +1,3 @@
 # MyStartup
 
-frontend ke saare changes frontend wale folder mein push karo
+frontend ke saare files frontend wale folder mein push karo
